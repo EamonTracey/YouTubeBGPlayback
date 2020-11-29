@@ -1,0 +1,9 @@
+Package: com.eamontracey.youtubebgplayback
+Name: YouTubeBGPlayback
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Background playback for YouTube
+Maintainer: Eamon Tracey
+Author: Eamon Tracey
+Section: Tweaks
